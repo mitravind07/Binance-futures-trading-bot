@@ -1,0 +1,5 @@
+2025-06-24 08:31:21,122 Connection error: APIError(code=-5000): Path /fapi/v1/account, Method GET is invalid
+2025-06-24 08:34:23,482 Connection error: APIError(code=-5000): Path /fapi/v1/account, Method GET is invalid
+2025-06-24 08:37:48,578 ERROR Binance API error: APIError(code=-5000): Path /fapi/v1/account, Method GET is invalid
+2025-06-24 08:45:04,793 ERROR Binance API error: APIError(code=-2014): API-key format invalid.
+2025-06-24 08:57:37,218 ERROR Binance API error: APIError(code=-5000): Path /fapi/v1/account, Method GET is invalid
